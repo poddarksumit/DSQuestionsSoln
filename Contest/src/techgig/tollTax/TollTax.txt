@@ -1,0 +1,27 @@
+There are some cities which are connected through roads. Every road is between two cities. Toll tax of each road is given. 
+All cities are connected via road. Any person can move from any one city to any other city by using these roads only. 
+Starting from a given city, you have to find a path starting from this city to an end city such that the total toll tax paid by the person is
+minimum.
+
+Note: Each city name is one letter alphabet(capital letter and not repeated). 
+
+Input Specs
+____________
+
+Your program must read the set of cities and no. of set of roads and set of roads along with toll tax charge and then starting city and ending city. 
+For the example considered in the question input will be
+
+input 1 = {A,B,C,D,E,F}
+input 2 = 7
+input 3 = {(A,B,4),(B,C,2),(C,D,3),(B,D,6),(B,E,9),(D,F,5),(E,F,4)}
+input 4 = {A,F}
+
+You can assume that each city has a different name and each road toll tax is an integer.
+
+
+Output Specification:
+____________________________
+
+Output should be minimum value of total toll tax paid  from starting city to ending city.
+
+Note: In case of multiple paths from starting city to ending city, output the value with minimum toll tax paid.

@@ -1,0 +1,29 @@
+N boys and M girls are learning acting skills from a theatre in Mumbai. To perform a play on ‘Ramayana’ they need to form a group of P actors
+containing not less than 4 boys and not less than 1 girl. The theatre requires you to write a program that tells them the number of ways the group
+can be formed
+
+Input Specs
+
+ 
+
+Your program must read two arguments (t, string1) where 
+
+t is the number of test cases (1 = t = 100)
+
+string1 is a string that provides you the details of each test case. The test cases are separated by a comma (,) as shown below
+
+test_case1, test_case2, test_case3....
+
+The data in each test case starts and end with brackets ( ). Within the brackets lies the following information separated by a comma (,)
+
+n, m, p where (4 = n = 100, 1 = m = 20, 5 = p = n+m),
+
+n, m represents the number of boys and girls
+p represent the number of actors required for the play.
+
+
+Output Specs
+
+The function must return the number of ways the group can be formed to the output variable ‘output1[]’
+
+Note: Please return 0 as output if n<4 or m<1 or p<5 

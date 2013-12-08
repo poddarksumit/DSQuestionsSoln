@@ -1,0 +1,4714 @@
+
+
+{
+
+   "Body": {
+
+      "searchResponse": {
+
+         "return": {
+
+            "responseHeader": {
+
+               "responseTrxTime": "2013-09-15T18:30:00.000+00:00",
+
+               "requestSource": "?",
+
+               "versionNumber": "$BMS_API_VERSION_NO"
+
+            },
+
+            "product": [
+
+               {
+
+                  "prd_id": "845524441762010",
+
+                  "productCode": "178968",
+
+                  "title": "Mens Polo Top",
+
+                  "shortDescription": "polo short rs 100",
+
+                  "marketingPromoMessage": "Attractive offer price for you... Limited Offer",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Product Type",
+
+                                 "attributeDescription": "type of Product e.g. Standard, 1man, 2man",
+
+                                 "value": "Two Man"
+
+                              },
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Mens Polo Top"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "true",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "100"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/poloshirts/bpn178968/mens-polo-top"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441762009",
+
+                  "productCode": "178967",
+
+                  "title": "LEGO Star Wars Boys T-Shirt",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "LEGO Star Wars Boys T-Shirt"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "false",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "179"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/shirtsand-blouses/bpn178967/lego-star-wars-boys-t-shirt"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441762008",
+
+                  "productCode": "178960",
+
+                  "title": "Women's  des Coat",
+
+                  "shortDescription": "Learning while playing is fun with KidKraft's new wooden Train Set with Table, includes Three Bins and 120 Piece Mountain Train Set. KidKraft's train table is kid-sized forseen hours of creative play. With a wide, generous play table, our train table has several unique features. Learning while playing is fun with KidKraft's new wooden Train Set with Table, includes Three Bins and 120 Piece Mountain Train Set.",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Product Type",
+
+                                 "attributeDescription": "type of Product e.g. Standard, 1man, 2man",
+
+                                 "value": "One Man"
+
+                              },
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Women's  des Coat"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "true",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "147"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "10",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/poloshirts/bpn178960/women-s-des-coat"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441762007",
+
+                  "productCode": "178958",
+
+                  "title": "Women's  des Coat",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Women's  des Coat"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "false",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "72"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/shirtsand-blouses/bpn178958/women-s-des-coat"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441762006",
+
+                  "productCode": "178957",
+
+                  "title": "Women's  des Coat",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Women's  des Coat"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "false",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "149"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/shirtsand-blouses/bpn178957/women-s-des-coat"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441762005",
+
+                  "productCode": "178951",
+
+                  "title": "Women's  des Coat",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Women's  des Coat"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "false",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "148"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/shirtsand-blouses/bpn178951/women-s-des-coat"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441762004",
+
+                  "productCode": "178950",
+
+                  "title": "Women's  des Coat",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Women's  des Coat"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "false",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "37"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/shirtsand-blouses/bpn178950/women-s-des-coat"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441762002",
+
+                  "productCode": "178945",
+
+                  "title": "Women's  des Coat",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Women's  des Coat"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "false",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "82"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/shirtsand-blouses/bpn178945/women-s-des-coat"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441762001",
+
+                  "productCode": "178942",
+
+                  "title": "Bomen's  des Coat Bomen's  des Coat Bomen's  des Coat Bomen's  des Coat Bomen's  des Coat Bomen's  des Coat Bomen's  des Coat Bomen's  des Coat Bomen's  des Coat",
+
+                  "marketingPromoMessage": "This message is to test the promo message slot",
+
+                  "averageProductRating": "4.3",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Product Type",
+
+                                 "attributeDescription": "type of Product e.g. Standard, 1man, 2man",
+
+                                 "value": "Free Delivery"
+
+                              },
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Bomen's  des Coat Bomen's  des Coat Bomen's  des Coat Bomen's  des Coat Bomen's  des Coat Bomen's  des Coat Bomen's  des Coat Bomen's  des Coat Bomen's  des Coat"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": {
+
+                     "store": "0800",
+
+                     "messages": {
+
+                        "@pageType": "DETAIL"
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/tshirts/bpn178942/bomen-s-des-coat-bomen-s-des-coat-bomen-s-des-coat-bomen-s-des-coat-bomen-s-des-coat-bomen-s-des-coat-bomen-s-des-coat-bomen-s-des-coat-bomen-s-des-coat"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441761998",
+
+                  "productCode": "178936",
+
+                  "title": "Women's  des Coat",
+
+                  "marketingPromoMessage": "Attractive offer price for you... Limited Offer..",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Women's  des Coat"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "stockMessage": "Out of Stock"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "stockMessage": "Out of Stock"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "stockMessage": "Out of Stock"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "false",
+
+                           "homeDelivery": "false"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "148"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/poloshirts/bpn178936/women-s-des-coat"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441761997",
+
+                  "productCode": "178934",
+
+                  "title": "Women's  des Coat",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Women's  des Coat"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "false",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "33"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/shirtsand-blouses/bpn178934/women-s-des-coat"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441761996",
+
+                  "productCode": "178926",
+
+                  "title": "Women's  des Coat",
+
+                  "marketingPromoMessage": "Attractive offer price for you... Limited Offer..",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Women's  des Coat"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "stockMessage": "Out of Stock"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "stockMessage": "Out of Stock"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "stockMessage": "Out of Stock"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "false",
+
+                           "homeDelivery": "false"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "196"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/poloshirts/bpn178926/women-s-des-coat"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441761995",
+
+                  "productCode": "178924",
+
+                  "title": "Women's  des Coat",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Women's  des Coat"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "false",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "173"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/shirtsand-blouses/bpn178924/women-s-des-coat"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441761994",
+
+                  "productCode": "178920",
+
+                  "title": "Women's  des Coat",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Women's  des Coat"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              },
+
+                              {
+
+                                 "@name": "WebPreOrderQtyLimit",
+
+                                 "attributeDescription": "limit on the Pre-Order Qty.",
+
+                                 "value": "10,000"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "false",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "34"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/tshirts/bpn178920/women-s-des-coat"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441761993",
+
+                  "productCode": "178917",
+
+                  "title": "Women's  des Coat",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Women's  des Coat"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "false",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "96"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/shirtsand-blouses/bpn178917/women-s-des-coat"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441761992",
+
+                  "productCode": "178913",
+
+                  "title": "Women's  des Coat",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Product Type",
+
+                                 "attributeDescription": "type of Product e.g. Standard, 1man, 2man",
+
+                                 "value": "Two Man"
+
+                              },
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Women's  des Coat"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "false",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "160"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/tshirts/bpn178913/women-s-des-coat"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441761991",
+
+                  "productCode": "178910",
+
+                  "title": "Women's  des Coat",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Women's  des Coat"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "false",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "13"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/shirtsand-blouses/bpn178910/women-s-des-coat"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441761990",
+
+                  "productCode": "178908",
+
+                  "title": "Women's  des Coat",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Women's  des Coat"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "false",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "71"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/shirtsand-blouses/bpn178908/women-s-des-coat"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441761988",
+
+                  "productCode": "178906",
+
+                  "title": "Mens Polo Top",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Product Type",
+
+                                 "attributeDescription": "type of Product e.g. Standard, 1man, 2man",
+
+                                 "value": "Small"
+
+                              },
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Mens Polo Top"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "Yes"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "true",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "99"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/poloshirts/bpn178906/mens-polo-top"
+
+                  }
+
+               },
+
+               {
+
+                  "prd_id": "845524441761987",
+
+                  "productCode": "178905",
+
+                  "title": "Women's  des Coat",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "Women's  des Coat"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "false",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "23"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/shirtsand-blouses/bpn178905/women-s-des-coat"
+
+                  }
+
+               }
+
+            ],
+
+            "facet": {
+
+               "@universe": "ignore",
+
+               "filter": [
+
+                  {
+
+                     "@on": "categories",
+
+                     "@isMultiSelect": "false",
+
+                     "title": "Categories",
+
+                     "filtersection": {
+
+                        "@nr": "71",
+
+                        "@selected": "false",
+
+                        "link": {
+
+                           "name": "Mens Style",
+
+                           "landingPage": {
+
+                              "@pageType": "LISTER"
+
+                           },
+
+                           "seoPath": "/mens/",
+
+                           "hasSubcategories": "false"
+
+                        },
+
+                        "value": "catalog01_2534374302024009"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@on": "show_me_products",
+
+                     "@isMultiSelect": "true",
+
+                     "title": "Show me products",
+
+                     "filtersection": [
+
+                        {
+
+                           "@nr": "71",
+
+                           "@selected": "false",
+
+                           "link": {
+
+                              "name": "I can buy online",
+
+                              "landingPage": {
+
+                                 "@pageType": "LISTER"
+
+                              }
+
+                           },
+
+                           "value": "i20can20buy20online:;"
+
+                        },
+
+                        {
+
+                           "@nr": "1",
+
+                           "@selected": "false",
+
+                           "link": {
+
+                              "name": "Featured in our catalogue",
+
+                              "landingPage": {
+
+                                 "@pageType": "LISTER"
+
+                              }
+
+                           },
+
+                           "value": "featured20in20our20catalogue:;"
+
+                        }
+
+                     ]
+
+                  },
+
+                  {
+
+                     "@on": "availability",
+
+                     "@isMultiSelect": "true",
+
+                     "title": "availabilityF",
+
+                     "filtersection": [
+
+                        {
+
+                           "@nr": "71",
+
+                           "@selected": "false",
+
+                           "link": {
+
+                              "name": "online",
+
+                              "landingPage": {
+
+                                 "@pageType": "LISTER"
+
+                              }
+
+                           },
+
+                           "value": "online:;"
+
+                        },
+
+                        {
+
+                           "@nr": "71",
+
+                           "@selected": "false",
+
+                           "link": {
+
+                              "name": "online now",
+
+                              "landingPage": {
+
+                                 "@pageType": "LISTER"
+
+                              }
+
+                           },
+
+                           "value": "online20now:;"
+
+                        },
+
+                        {
+
+                           "@nr": "1",
+
+                           "@selected": "false",
+
+                           "link": {
+
+                              "name": "layby",
+
+                              "landingPage": {
+
+                                 "@pageType": "LISTER"
+
+                              }
+
+                           },
+
+                           "value": "layby:;"
+
+                        }
+
+                     ]
+
+                  }
+
+               ]
+
+            },
+
+            "resultSet": {
+
+               "currentSet": "1",
+
+               "viewSize": "20",
+
+               "startIndex": "0",
+
+               "totalSize": "71"
+
+            },
+
+            "baseLinkRef": {
+
+               "query": {
+
+                  "object": {
+
+                     "attribute": {
+
+                        "@name": "anonymous",
+
+                        "value": "shirts"
+
+                     }
+
+                  }
+
+               },
+
+               "landingPage": {
+
+                  "@pageType": "LISTER"
+
+               }
+
+            }
+
+         }
+
+      }
+
+   }
+
+}
+

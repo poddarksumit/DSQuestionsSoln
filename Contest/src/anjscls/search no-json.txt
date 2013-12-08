@@ -1,0 +1,66 @@
+
+
+{
+
+   "Body": {
+
+      "searchResponse": {
+
+         "return": {
+
+            "responseHeader": {
+
+               "responseTrxTime": "2013-09-15T18:30:00.000+00:00",
+
+               "requestSource": "?",
+
+               "versionNumber": "$BMS_API_VERSION_NO"
+
+            },
+
+            "resultSet": {
+
+               "currentSet": "0",
+
+               "viewSize": "0",
+
+               "startIndex": "0",
+
+               "totalSize": "0"
+
+            },
+
+            "baseLinkRef": {
+
+               "query": {
+
+                  "object": {
+
+                     "attribute": {
+
+                        "@name": "anonymous",
+
+                        "value": "abc"
+
+                     }
+
+                  }
+
+               },
+
+               "landingPage": {
+
+                  "@pageType": "LISTER"
+
+               }
+
+            }
+
+         }
+
+      }
+
+   }
+
+}
+

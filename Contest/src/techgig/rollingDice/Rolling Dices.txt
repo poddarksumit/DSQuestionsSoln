@@ -1,0 +1,27 @@
+Two persons are playing a game of rolling 2 dices. Each person roll the two dices n times and record the outcomes( some of value of two dices) of
+all the n attempts. So after n attempts of both the player we have two list corresponding to the n outcomes of two players. They want to know that
+whether they have got all possible outcomes( 2 to 12) same number of times or not. If they got all the possible outcomes same number of times then
+they are called lucky otherwise unlucky. So the question is that you have two list corresponding to the outcomes of two players you have to decide 
+that whether the two players are lucky or not.
+
+Input Specification:
+
+Two list (L1, L2) corresponding to outcomes of two players.
+
+Output:
+
+Lucky/Unlucky
+
+Example: Two players the rolling 2 dices 7 times
+
+Player one outcomes: { 12, 11, 5, 2, 7, 5, 11}
+
+Player two outcomes: { 5, 12, 5, 7, 11, 2, 11}
+
+Both the players are lucky because they have got
+11(2 times each),
+5(2 times each),
+7( 1 time each),
+2( 1 time each),
+12( 1 time each)
+and all other outputs (0 times each). 

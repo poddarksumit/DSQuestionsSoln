@@ -1,0 +1,108 @@
+
+
+{
+
+   "Body": {
+
+      "searchResponse": {
+
+         "return": {
+
+            "responseHeader": {
+
+               "responseTrxTime": "2013-09-15T18:30:00.000+00:00",
+
+               "requestSource": "?",
+
+               "versionNumber": "$BMS_API_VERSION_NO"
+
+            },
+
+            "banner": {
+
+               "name": "Mobile Home Banner",
+
+               "page": "HOME",
+
+               "type": "image",
+
+               "content": [
+
+                  {
+
+                     "url": "http://t3.gstatic.com/image?q=tbn:ANd9GcSWZETBEYC9oTjyEo5PB_RdKV848GeIfUVgwfeo2zPBbQPyfLDq",
+
+                     "link": {
+
+                        "query": {
+
+                           "object": {
+
+                              "attribute": [
+
+                                 {
+
+                                    "@name": "name",
+
+                                    "value": "simplepickedlist/"
+
+                                 },
+
+                                 {
+
+                                    "@name": "folder",
+
+                                    "value": "List"
+
+                                 }
+
+                              ]
+
+                           }
+
+                        },
+
+                        "landingPage": {
+
+                           "@pageType": "LISTER"
+
+                        },
+
+                        "seoPath": "/list/simplepickedlist/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "url": "http://t3.gstatic.com/images?q=tbn:ANd9GcSWZETBEYC9oTjyEo5PB_RdKV848GeIfUVgwfeo2zPBbQPyfLDq",
+
+                     "link": {
+
+                        "landingPage": {
+
+                           "@pageType": "OFFER"
+
+                        },
+
+                        "seoPath": "http://localhost/offer/edesk-name"
+
+                     }
+
+                  }
+
+               ],
+
+               "area": "MobileTopBanner"
+
+            }
+
+         }
+
+      }
+
+   }
+
+}
+

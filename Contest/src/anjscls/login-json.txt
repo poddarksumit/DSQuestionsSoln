@@ -1,0 +1,90 @@
+
+
+{
+
+   "Body": {
+
+      "authenticateUserResponse": {
+
+         "responseHeader": {
+
+            "responseTrxTime": "2013-09-15T18:30:00.000+00:00",
+
+            "requestSource": "?"
+
+         },
+
+         "referenceId": "c6bf8065-7b6b-442f-a882-491954f28086"
+
+      }
+
+   }
+
+}
+
+
+
+
+
+{
+
+   "Body": {
+
+      "Fault": {
+
+         "faultcode": "soapenv:Server",
+
+         "faultstring": "3019:Invalid login credential.",
+
+         "detail": []
+
+      }
+
+   }
+
+}
+
+
+
+
+
+{
+
+   "Body": {
+
+      "getUserResponse": {
+
+         "responseHeader": {
+
+            "responseTrxTime": "2013-09-15T18:30:00.000+00:00",
+
+            "requestSource": "?"
+
+         },
+
+         "currentUser": {
+
+            "usa_id": "2253998867753623",
+
+            "email": "abatra@woolworths.com.au",
+
+            "firstName": "Anuj",
+
+            "lastName": "Batra",
+
+            "optToNewsletter": "true",
+
+            "userid": "bigw_abatra@woolworths.com.au",
+
+            "edrCardNumber": "0",
+
+            "referenceId": "dcabb3b5-5ce2-4cad-9143-246ac5ff63cf"
+
+         }
+
+      }
+
+   }
+
+}
+

@@ -1,0 +1,256 @@
+
+
+{
+
+   "Body": {
+
+      "searchResponse": {
+
+         "return": {
+
+            "responseHeader": {
+
+               "responseTrxTime": "2013-09-15T18:30:00.000+00:00",
+
+               "requestSource": "?",
+
+               "versionNumber": "$BMS_API_VERSION_NO"
+
+            },
+
+            "product":               
+
+               {
+
+                  "prd_id": "845524441762009",
+
+                  "productCode": "178967",
+
+                  "title": "LEGO Star Wars Boys T-Shirt",
+
+                  "specifications": {
+
+                     "specificationsGroup": [
+
+                        {
+
+                           "groupName": "Specification Group 1",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Title",
+
+                                 "attributeDescription": "title name of the product",
+
+                                 "value": "LEGO Star Wars Boys T-Shirt"
+
+                              },
+
+                              {
+
+                                 "@name": "WebProductSale",
+
+                                 "attributeDescription": "This tells whether product can be ordered, online, store or both.",
+
+                                 "value": "Online Only"
+
+                              }
+
+                           ]
+
+                        },
+
+                        {
+
+                           "groupName": "specification Group 2",
+
+                           "specAttribute": [
+
+                              {
+
+                                 "@name": "Active No Reorder",
+
+                                 "attributeDescription": "This refers to that product status to be set as Active / No Re-order",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebBackOrder",
+
+                                 "attributeDescription": "This tells whether product can be set as back-order.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDeferredDelivery",
+
+                                 "attributeDescription": "This tells whether product is available for deferred delivery.",
+
+                                 "value": "No"
+
+                              },
+
+                              {
+
+                                 "@name": "WebDisplaySaveAmount",
+
+                                 "attributeDescription": "Display save amount flag",
+
+                                 "value": "Yes"
+
+                              }
+
+                           ]
+
+                        }
+
+                     ]
+
+                  },
+
+                  "availabilityMatrix": [
+
+                     {
+
+                        "store": "0800",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ADD_TO_CART",
+
+                              "stockMessage": "In stock online",
+
+                              "shippingMessage": "Product normally ships next business day"
+
+                           }
+
+                        ],
+
+                        "purchaseOptions": {
+
+                           "layBy": "false",
+
+                           "homeDelivery": "true"
+
+                        }
+
+                     },
+
+                     {
+
+                        "store": "-1",
+
+                        "messages": [
+
+                           {
+
+                              "@pageType": "LISTER",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "DETAIL",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           },
+
+                           {
+
+                              "@pageType": "GRID",
+
+                              "button": "ONLY_AVAILABLE_ONLINE"
+
+                           }
+
+                        ]
+
+                     }
+
+                  ],
+
+                  "priceMessages": {
+
+                     "priceMessage": {
+
+                        "display": "DEFAULT",
+
+                        "price": {
+
+                           "@currencyCode": "AUD",
+
+                           "#text": "179"
+
+                        }
+
+                     }
+
+                  },
+
+                  "largeImageURL": "/website/media/DSAU/Product/placeholder-1000x1000_v1_m56577569830478216.jpg",
+
+                  "maxQuantity": "9999",
+
+                  "minQuantity": "1",
+
+                  "link": {
+
+                     "landingPage": {
+
+                        "@pageType": "DETAIL"
+
+                     },
+
+                     "seoPath": "/mens/shirts/shirtsand-blouses/bpn178967/lego-star-wars-boys-t-shirt"
+
+                  }
+
+               }                                   
+
+         }
+
+      }
+
+   }
+
+}
+
