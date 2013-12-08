@@ -21,12 +21,6 @@ public class TrieUtil {
 		System.out.println(wordExists(node, "Shawn Micheale"));
 	}
 
-	public static void main(String[] args, int index) {
-		// TODO Auto-generated method stub
-		Integer inte = Integer.MAX_VALUE;
-		System.out.println(inte);
-	}
-
 	public static TrieNode insertWord(TrieNode root, String word) {
 		TrieNode current = root;
 		if ((word != null) && (!"".equals(word))) {
