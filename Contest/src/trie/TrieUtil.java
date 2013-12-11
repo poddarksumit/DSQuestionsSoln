@@ -23,13 +23,19 @@ public class TrieUtil {
 
 	public static TrieNode insertWord(TrieNode root, String word) {
 		TrieNode current = root;
+		int i = 0;
 		if ((word != null) && (!"".equals(word))) {
-			for (char c : word.toCharArray()) {
-				if (current.getChild().get(c) == null) {
-					current.getChild().put(c, new TrieNode(c));
+			char[] c = word.toCharArray();
+			for (; i < c.length; i++) {
+				if (current.getChild().get(c[i]) == null) {
+					current.getChild().put(
+							c[i],
+							new TrieNode(c[i], (i == c.length - 1) ? true
+									: false));
 				}
-				current = current.getChild().get(c);
+				current = current.getChild().get(c[i]);
 			}
+			current.setEnd(true);
 		}
 		return root;
 	}

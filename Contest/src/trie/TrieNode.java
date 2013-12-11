@@ -15,14 +15,20 @@ import java.util.Map;
 public class TrieNode {
 
 	private char letter;
-	private Map<Character, TrieNode> child;
+	private Map<Character, TrieNode> child = new HashMap<Character, TrieNode>();
 	int elementSize;
+	boolean isEnd = false;
 
 	public TrieNode(char letter) {
 		super();
 		this.letter = letter;
-		this.child = new HashMap<Character, TrieNode>();
 		elementSize = 0;
+	}
+
+	public TrieNode(char letter, boolean isEnd) {
+		super();
+		this.letter = letter;
+		this.isEnd = isEnd;
 	}
 
 	public char getLetter() {
@@ -47,6 +53,14 @@ public class TrieNode {
 
 	public void setElementSize(int elementSize) {
 		this.elementSize = elementSize;
+	}
+
+	public boolean isEnd() {
+		return isEnd;
+	}
+
+	public void setEnd(boolean isEnd) {
+		this.isEnd = isEnd;
 	}
 
 }
