@@ -29,6 +29,9 @@ public class Node {
 		this.right = right;
 	}
 
+	public Node() {
+	}
+
 	public Node(int data, Node left, Node right, Node leftMost,
 			boolean isVisited) {
 		super();
