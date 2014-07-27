@@ -22,11 +22,14 @@ public class PalindromeList {
 		NodeList n1 = new NodeList(1, null);
 		NodeList n11 = new NodeList(2, n1);
 		NodeList n2 = new NodeList(3, n11);
-		NodeList n3 = new NodeList(3, n2);
+		NodeList n31 = new NodeList(4, n2);
+		NodeList n3 = new NodeList(3, n31);
 		NodeList n4 = new NodeList(2, n3);
 		NodeList n5 = new NodeList(1, n4);
 		head = n5;
 		System.out.println(isPalindrome(n5, true, 0));
+		NodeList root = isPalin(n5, n5);
+		System.out.println(root != null);
 
 	}
 
@@ -62,5 +65,22 @@ public class PalindromeList {
 		}
 
 		return isPalindrome;
+	}
+
+	public static NodeList isPalin(NodeList list1, NodeList list2) {
+		if ((list2 == null) || (list1 == null)) {
+			return list1;
+		}
+		list1 = isPalin(list1, list2.getNext());
+		if (list1 != null) {
+			if (list1.getData() == list2.getData()) {
+				if (list1.getNext() != null) {
+					list1 = list1.getNext();
+				}
+			} else {
+				list1 = null;
+			}
+		}
+		return list1;
 	}
 }

@@ -15,9 +15,18 @@ public class NodeList {
 	NodeList next;
 	boolean inVisted;
 	NodeList prev;
+	NodeList random;
 
 	public int getData() {
 		return data;
+	}
+
+	public NodeList getRandom() {
+		return random;
+	}
+
+	public void setRandom(NodeList random) {
+		this.random = random;
 	}
 
 	public void setData(int data) {

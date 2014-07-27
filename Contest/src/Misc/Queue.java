@@ -157,7 +157,7 @@ public class Queue implements java.util.Queue<Node> {
 	 */
 	@Override
 	public boolean add(Node arg0) {
-		// TODO Auto-generated method stub
+		nodeArry.add(arg0);
 		return false;
 	}
 
@@ -201,7 +201,8 @@ public class Queue implements java.util.Queue<Node> {
 	 */
 	@Override
 	public Node poll() {
-		// TODO Auto-generated method stub
+		Node node = nodeArry.get(0);
+		nodeArry.remove(0);
 		return null;
 	}
 

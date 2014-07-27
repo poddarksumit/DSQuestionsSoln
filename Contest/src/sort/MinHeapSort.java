@@ -17,8 +17,15 @@ public class MinHeapSort {
 	public static void main(String[] args) {
 		int[] array = { 60, 8, 13, 90, 105, 2, 1 };
 		buildHeap(array);
+		System.out.println("--- Heaped ---");
+		for (int i : array) {
+			System.out.println(i);
+		}
 		sortArray(array);
-		System.out.println(array);
+		System.out.println("--- Sorted ---");
+		for (int i : array) {
+			System.out.println(i);
+		}
 
 	}
 

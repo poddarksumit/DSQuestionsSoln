@@ -11,16 +11,6 @@ package trie;
  */
 public class TrieUtil {
 
-	/**
-	 * @param args
-	 */
-	static public void main(String[] args) {
-		// TODO Auto-generated method stub
-		TrieNode node = insertWord(new TrieNode('\0'), "Shawn Micheal");
-		node = insertWord(node, "Shawne Micheal");
-		System.out.println(wordExists(node, "Shawn Micheale"));
-	}
-
 	public static TrieNode insertWord(TrieNode root, String word) {
 		TrieNode current = root;
 		int i = 0;

@@ -10,7 +10,6 @@ package Tree;
  * 
  */
 public class CheckSumProperty {
-	public static boolean isPropExists = true;
 
 	/**
 	 * @param args
@@ -22,18 +21,17 @@ public class CheckSumProperty {
 		Node n4 = new Node(1, null, null);
 		Node n5 = new Node(3, n4, new Node(2, null, null));
 		Node n = new Node(10, n3, n5);
-		checkProperty(n, n, true);
-		System.out.println(isPropExists);
+		System.out.println((checkProperty(n,  true) == null)?false:true);
 	}
 
-	public static Node checkProperty(Node node) {
+	public static Node checkProperty(Node node,boolean isPropExists) {
 		if (node == null) {
 			return null;
 		}
 		int sum = 0;
 		if (isPropExists) {
-			Node left = checkProperty(node.left);
-			Node rigth = checkProperty(node.right);
+			Node left = checkProperty(node.left,isPropExists);
+			Node rigth = checkProperty(node.right,isPropExists);
 			if ((left == null) && (rigth == null)) {
 				return node;
 			}
@@ -44,13 +42,13 @@ public class CheckSumProperty {
 				sum += rigth.data;
 			}
 			if (sum != node.data) {
-				isPropExists = false;
+				isPropExists = false;node = null;
 			}
 		}
 		return node;
 	}
 
-	public static boolean checkProperty(Node head, boolean isPropTrue) {
+	/*public static boolean checkProperty(Node head, boolean isPropTrue) {
 
 		if (head == null) {
 			return isPropTrue;
@@ -62,5 +60,5 @@ public class CheckSumProperty {
 
 		}
 		return isPropTrue;
-	}
+	}*/
 }
