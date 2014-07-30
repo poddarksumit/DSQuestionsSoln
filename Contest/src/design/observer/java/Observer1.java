@@ -1,7 +1,7 @@
 /**
  * 
  */
-package observer;
+package design.observer.java;
 
 import java.util.Observable;
 import java.util.Observer;
