@@ -1,5 +1,7 @@
 package design.command;
 
 public interface CarCommand {
-	void execute();
+	boolean execute();
+
+	void undo();
 }

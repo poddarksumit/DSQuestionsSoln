@@ -10,8 +10,13 @@ public class WindowDownCommand implements CarCommand {
 	}
 
 	@Override
-	public void execute() {
-		car.windowDown();
+	public boolean execute() {
+		return this.car.windowDown();
+	}
+
+	@Override
+	public void undo() {
+		car.windowUp();
 	}
 
 }
