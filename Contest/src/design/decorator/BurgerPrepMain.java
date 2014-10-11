@@ -9,7 +9,7 @@ public class BurgerPrepMain {
 		Burger myBurger = new SimpleVegBuger();
 		System.out.println(myBurger.getDescription());
 		System.out.println(myBurger.getCost());
-		myBurger = new SpicySimpleVeggieBurger(new SimpleVegBuger());
+		myBurger = new MaypFillBurger(new SpicySimpleVeggieBurger(new SimpleVegBuger()));
 		System.out.println(myBurger.getDescription());
 		System.out.println(myBurger.getCost());
 		myBurger = new MaypFillBurger(new SimpleVegBuger());
